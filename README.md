@@ -10,6 +10,7 @@ Football Squares is a popular game where players choose squares on a grid, and w
 - Examine the impact of the 1994 rule changes (e.g., the two-point conversion) on scoring trends.
 
 ## Repository Structure
+```
 /project-root
 ├── data/                     # Raw and processed datasets
 │   ├── nfl box scores.csv     # Main dataset (1978–2023)
@@ -22,7 +23,7 @@ Football Squares is a popular game where players choose squares on a grid, and w
 ├── data scraper.ipynb        # Notebook for data scraping from FootballDB
 ├── football squares.ipynb    # Main analysis notebook
 └── README.md                 # This README file
-
+```
 ## Data
 The datasets used in this project were scraped from [FootballDB](https://www.footballdb.com). They include game-level data from 1978–2023, with fields such as:
 - Team names (home and away).
