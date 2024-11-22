@@ -57,7 +57,7 @@ The main analysis notebook covers:
 - Statistical tests to evaluate rule changes and scoring trends.
 
 ## Setup Instructions
-1. Clone this repository: git clone https://github.com/your-username/football-squares.git
+1. Clone this repository: git clone https://github.com/joerich1/Analytics-Day---Shared.git
 2. Install the required Python packages: pip install -r requirements.txt
 3. Run the Jupyter notebooks:
 - Start Jupyter Notebook:
@@ -75,9 +75,6 @@ The main analysis notebook covers:
 
 ## Contact
 For questions or collaborations, feel free to reach out:
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile Link]
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details. 
+- **Name**: Joseph Richardson
+- **Email**: jrich256@students.kennesaw.edu
+- **GitHub**: https://github.com/joerich1
