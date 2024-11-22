@@ -10,6 +10,7 @@ Football Squares is a popular game where players choose squares on a grid, and w
 - Examine the impact of the 1994 rule changes (e.g., the two-point conversion) on scoring trends.
 
 ## Repository Structure
+```
 /project-root
 ├── data/                     # Raw and processed datasets
 │   ├── nfl box scores.csv     # Main dataset (1978–2023)
@@ -22,7 +23,7 @@ Football Squares is a popular game where players choose squares on a grid, and w
 ├── data scraper.ipynb        # Notebook for data scraping from FootballDB
 ├── football squares.ipynb    # Main analysis notebook
 └── README.md                 # This README file
-
+```
 ## Data
 The datasets used in this project were scraped from [FootballDB](https://www.footballdb.com). They include game-level data from 1978–2023, with fields such as:
 - Team names (home and away).
@@ -57,9 +58,15 @@ The main analysis notebook covers:
 - Statistical tests to evaluate rule changes and scoring trends.
 
 ## Setup Instructions
-1. Clone this repository: git clone https://github.com/joerich1/Analytics-Day---Shared.git
-2. Install the required Python packages: pip install -r requirements.txt
-3. Run the Jupyter notebooks:
+1. Clone this repository:
+```
+git clone https://github.com/joerich1/Football_Squares.git
+```
+3. Install the required Python packages:
+```
+pip install -r requirements.txt
+```
+5. Run the Jupyter notebooks:
 - Start Jupyter Notebook:
   ```
   jupyter notebook

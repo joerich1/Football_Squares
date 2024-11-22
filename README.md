@@ -58,9 +58,15 @@ The main analysis notebook covers:
 - Statistical tests to evaluate rule changes and scoring trends.
 
 ## Setup Instructions
-1. Clone this repository: git clone https://github.com/joerich1/Football_Squares.git
-2. Install the required Python packages: pip install -r requirements.txt
-3. Run the Jupyter notebooks:
+1. Clone this repository:
+```
+git clone https://github.com/joerich1/Football_Squares.git
+```
+3. Install the required Python packages:
+```
+pip install -r requirements.txt
+```
+5. Run the Jupyter notebooks:
 - Start Jupyter Notebook:
   ```
   jupyter notebook
